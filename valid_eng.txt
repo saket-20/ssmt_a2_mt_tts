@@ -1,0 +1,461 @@
+o o five
+o o six one four eight seven
+o o six one
+o o six three o three six
+o o six five five
+o o six six six
+o o six six
+o o six
+o o six o one three seven
+o o six o three nine nine
+o o six o five
+o o six o
+o o six o o nine seven
+o o seven one two three one
+o o seven eight
+o o seven
+o o seven o
+o o eight five three four six
+o o eight seven
+o o eight eight four
+o o eight eight
+o o eight eight o o six
+o o eight
+o o eight o three
+o o eight o
+o o nine one o
+o o nine three four
+o o nine nine eight eight eight
+o o nine
+o o nine o three one eight
+o o nine o
+o o
+o o
+o o o one seven
+o o o two four
+o o o two eight seven eight
+o o o two o
+o o o four six one one
+o o o six o five six
+o o o seven six six o
+o o o eight two four o
+o o o nine three seven one
+o o o nine nine eight nine
+o o o
+zero one one five one
+zero one one five two
+zero one one six three
+zero one one eight one three one
+zero one one eight
+zero one one nine
+zero one one
+zero one two nine five
+zero one two nine seven seven four
+zero one two
+zero one three one nine
+zero one three zero seven
+zero one five seven six five two
+zero one five eight
+zero one five nine
+zero one five
+zero one five zero
+zero one six one three five zero
+zero one six seven three
+zero one six zero five one eight
+zero one six zero
+zero one seven five
+zero one seven six two
+zero one seven six zero zero two
+zero one seven nine
+zero one eight three zero
+zero one eight eight
+zero one eight
+zero one nine three zero three six
+zero one nine
+zero one nine zero
+zero one nine zero zero
+zero one
+zero one zero three
+zero one zero five eight zero one
+zero one zero five nine
+zero one zero five zero
+zero one zero six nine
+zero one zero seven two
+zero one zero
+zero two one five nine
+zero two one
+zero two two four eight six nine
+zero two two zero one
+zero two two zero
+zero two three one three two seven
+zero two three one nine zero nine
+zero two three five
+zero two three
+zero two three zero one
+zero two four two
+zero two four six
+zero two four seven
+zero two four nine two six nine
+zero two four
+zero two five four
+zero two five five one
+zero two five five
+zero two five six
+zero two five
+zero two six three five three one
+zero two six five
+zero two six eight two two four
+zero two six
+zero two seven one seven
+zero two seven two
+zero two seven nine five three seven
+zero two seven
+zero two eight two
+zero two eight
+zero two eight zero six six seven
+zero two nine one seven
+zero two nine one
+zero two nine four
+zero two nine seven six three one
+zero two
+zero two zero one seven seven four
+zero two zero seven one
+zero two zero
+zero two zero zero seven
+zero two zero zero
+zero three one one five zero nine
+zero three one four seven two three
+zero three one
+zero three one zero nine one two
+zero three one zero
+zero three two four eight four nine
+zero three two
+zero three three nine nine
+zero three four three one one two
+zero three five three two
+zero three five seven
+zero three five
+zero three six three one one four
+zero three six six six two five
+zero three six zero one
+zero three six zero five
+zero three seven six zero four zero
+zero three seven nine
+zero three seven zero
+zero three eight one
+zero three eight three two
+zero three eight zero four six seven
+zero three nine seven five
+zero three nine eight four two two
+zero three nine eight
+zero three
+zero three zero three
+zero three zero four zero zero two
+zero three zero five six eight zero
+zero four one one seven eight zero
+zero four one three one zero zero
+zero four one seven four
+zero four one eight eight seven four
+zero four two three
+zero four three one one eight one
+zero four three one zero
+zero four three two
+zero four three four six
+zero four three eight five
+zero four three
+zero four three zero two eight one
+zero four four one
+zero four four one zero
+zero four four two seven
+zero four four two zero nine four
+zero four four three six five nine
+zero four four three
+zero four four
+zero four four zero five
+zero four five one zero nine five
+zero four five four eight
+zero four five four
+zero four five five two nine three
+zero four five five four
+zero four six five
+zero four six seven four
+zero four seven four one eight three
+zero four seven four five six three
+zero four seven five seven
+zero four seven seven nine six six
+zero four seven
+zero four seven zero six
+zero four seven zero seven five nine
+zero four eight three six six seven
+zero four eight five
+zero four eight eight zero two five
+zero four eight zero two eight four
+zero four eight zero four three six
+zero four nine two zero
+zero four nine six zero
+zero four nine eight
+zero four nine
+zero four
+zero four zero two
+zero four zero five one two seven
+zero four zero five zero
+zero four zero
+zero four zero zero six nine zero
+zero five one seven zero
+zero five one
+zero five two two zero
+zero five three one one
+zero five three one nine
+zero five three nine
+zero five three
+zero five four two
+zero five four two zero one six
+zero five four nine zero
+zero five four
+zero five five eight zero two eight
+zero five five
+zero five six seven two
+zero five six
+zero five seven one
+zero five seven two five
+zero five seven six one zero six
+zero five seven nine seven zero two
+zero five seven
+zero five eight one three
+zero five eight four
+zero five eight seven zero one zero
+zero five eight
+zero five nine three one
+zero five nine eight
+zero five nine
+zero five nine zero seven
+zero five
+zero five zero two three
+zero five zero three zero eight six
+zero five zero four zero
+zero five zero six
+zero five zero
+zero five zero zero
+zero six one four
+zero six one eight nine
+zero six two six six eight seven
+zero six two six zero four five
+zero six two
+zero six two zero two eight five
+zero six three four
+zero six four one four eight eight
+zero six four one
+zero six four five
+zero six four seven
+zero six four eight
+zero six five five zero
+zero six five eight nine
+zero six five
+zero six six two
+zero six six five six
+zero six six nine five four seven
+zero six six
+zero six seven two three zero six
+zero six seven seven two
+zero six seven seven eight zero eight
+zero six seven eight
+zero six seven
+zero six eight two
+zero six eight eight zero
+zero six eight
+zero six nine one
+zero six nine nine one zero three
+zero six nine
+zero six
+zero six zero one seven
+zero six zero five
+zero six zero seven two zero nine
+zero six zero nine zero
+zero six zero
+zero six zero zero zero
+zero seven one three six
+zero seven one six one six three
+zero seven one six nine one one
+zero seven one nine
+zero seven one
+zero seven one zero zero
+zero seven two six zero
+zero seven two
+zero seven two zero two
+zero seven three four three
+zero seven four five zero
+zero seven four eight
+zero seven four eight zero
+zero seven four
+zero seven five one
+zero seven five seven
+zero seven five nine one
+zero seven six two zero three zero
+zero seven six seven five
+zero seven six zero one
+zero seven eight four four zero four
+zero seven eight
+zero seven eight zero
+zero seven nine one three
+zero seven nine one
+zero seven nine four one
+zero seven nine six two
+zero seven nine
+zero seven nine zero two
+zero seven nine zero
+zero seven
+zero seven zero one zero zero nine
+zero seven zero two nine
+zero seven zero two
+zero seven zero six five seven two
+zero seven zero seven
+zero seven zero
+zero seven zero zero three
+zero seven zero zero four six five
+zero seven zero zero zero
+zero eight one eight three
+zero eight two five four
+zero eight two seven six
+zero eight two eight
+zero eight two
+zero eight three six
+zero eight three nine two nine three
+zero eight four nine six
+zero eight four
+zero eight five five six
+zero eight five eight three
+zero eight five nine one zero seven
+zero eight six two
+zero eight six three one
+zero eight six eight seven one three
+zero eight six eight
+zero eight six nine
+zero eight six zero zero
+zero eight seven three
+zero eight seven seven
+zero eight eight one
+zero eight eight three
+zero eight eight
+zero eight eight zero
+zero eight nine eight four
+zero eight nine eight
+zero eight nine
+zero eight
+zero eight
+zero eight zero one
+zero eight zero two two seven three
+zero eight zero two seven zero five
+zero eight zero two zero one seven
+zero eight zero three five zero seven
+zero eight zero six
+zero eight zero
+zero eight zero zero four
+zero eight zero zero eight
+zero nine one three three
+zero nine one seven
+zero nine two one
+zero nine two four two
+zero nine two five nine
+zero nine two seven zero five two
+zero nine two
+zero nine two zero
+zero nine three one zero zero three
+zero nine three two
+zero nine three three zero nine five
+zero nine three seven nine
+zero nine three nine four four one
+zero nine three
+zero nine three zero zero
+zero nine four two eight
+zero nine four five
+zero nine four seven six one zero
+zero nine four nine seven four four
+zero nine four
+zero nine four zero zero three two
+zero nine five one two zero eight
+zero nine six nine one
+zero nine six
+zero nine six zero four zero zero
+zero nine six zero
+zero nine seven two three eight zero
+zero nine seven two
+zero nine eight
+zero nine eight zero
+zero nine eight zero zero zero one
+zero nine nine one
+zero nine nine five
+zero nine nine
+zero nine nine zero
+zero nine
+zero nine zero one zero five zero
+zero nine zero five four zero three
+zero nine zero eight zero zero three
+zero nine zero nine three two zero
+zero
+zero
+zero zero one three one
+zero zero one five two three zero
+zero zero one five
+zero zero one six seven
+zero zero one nine eight
+zero zero one nine
+zero zero one
+zero zero one zero zero eight zero
+zero zero two six
+zero zero two
+zero zero two zero nine nine one
+zero zero three one two nine eight
+zero zero three two
+zero zero three three two nine nine
+zero zero three five zero
+zero zero three six four
+zero zero three seven five
+zero zero three nine
+zero zero three
+zero zero three zero seven three six
+zero zero three zero zero zero nine
+zero zero four four four
+zero zero four six three
+zero zero four six five
+zero zero four nine
+zero zero four
+zero zero five three three
+zero zero five four six
+zero zero five four
+zero zero five seven eight two zero
+zero zero five seven
+zero zero five
+zero zero five zero eight nine six
+zero zero six two zero
+zero zero six four eight
+zero zero six four
+zero zero six five seven
+zero zero six six five five two
+zero zero six eight four seven eight
+zero zero six
+zero zero six zero four
+zero zero seven one
+zero zero seven seven seven
+zero zero seven
+zero zero seven zero four
+zero zero eight four zero
+zero zero eight six nine eight one
+zero zero eight six zero
+zero zero eight seven seven
+zero zero eight
+zero zero eight zero five seven zero
+zero zero nine two seven
+zero zero nine two eight seven three
+zero zero nine six two
+zero zero nine six seven seven two
+zero zero nine eight two five seven
+zero zero nine
+zero zero
+zero zero
+zero zero zero three
+zero zero zero seven three
+zero zero zero nine one three nine
+zero zero zero nine six
+zero zero zero nine
+zero zero zero nine zero five two
+zero zero zero

@@ -1,0 +1,67 @@
+def process_line(line):
+    """
+    Process one line of input.
+    Expected format: <original_string> <expected mapping...>
+    For example: "9O2A nine o two"
+    """
+    line = line.strip()
+    if not line:
+        return None, None, None
+
+    # Split the line: first token is the input string and the rest is the expected mapping.
+    parts = line.split()
+    original = parts[0]
+    expected = " ".join(parts[1:])
+    
+    # Define the mapping rules:
+    mapping = {
+        '0': 'zero',
+        '1': 'one',
+        '2': 'two',
+        '3': 'three',
+        '4': 'four',
+        '5': 'five',
+        '6': 'six',
+        '7': 'seven',
+        '8': 'eight',
+        '9': 'nine',
+        'O': 'o'  # Map uppercase 'O' to lowercase 'o'
+    }
+    
+    # Remove the last character from the original string.
+    trimmed = original[:-1]
+    actual_list = []
+    
+    # Process each character according to the mapping rules.
+    for char in trimmed:
+        if char in mapping:
+            actual_list.append(mapping[char])
+    
+    actual = " ".join(actual_list)
+    return original, expected, actual
+
+def check_file(filename):
+    """
+    Reads a file where each line is in the format:
+    <original_string> <expected mapping>
+    
+    It processes each line, compares the computed mapping to the expected mapping,
+    and prints up to three mismatches.
+    """
+    mismatches = 0
+    with open(filename, 'r') as file:
+        for line in file:
+            original, expected, actual = process_line(line)
+            # Skip empty or malformed lines.
+            if original is None:
+                continue
+            
+            # Check for mismatch
+            if expected != actual:
+                print(f"Mismatch for {original}: expected '{expected}', got '{actual}'")
+                mismatches += 1
+                if mismatches >= 3:
+                    break
+
+# Example usage:
+check_file('test_filt.txt')
